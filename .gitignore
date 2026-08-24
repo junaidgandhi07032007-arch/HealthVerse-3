@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.local
